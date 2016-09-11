@@ -7,6 +7,12 @@ __pycache__/
 *.so
 
 ############################
+# Troja Specific GitIgnore #
+############################
+local/**
+id
+
+############################
 #Eclipse Specific GitIgnore#
 ############################
 *.pydevproject
