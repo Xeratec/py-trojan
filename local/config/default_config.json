@@ -1,0 +1,16 @@
+[{
+"config":"main",
+	"task_pause_min":60,
+	"task_pause_max":300,
+	"task":"run"
+},{
+"module": "dirlister"
+},{
+"module": "environment"
+},{
+"module": "get_shadow"
+},{
+"module": "sshRcmd_client",
+	"hostname":"localhost",
+	"port":8080
+}]

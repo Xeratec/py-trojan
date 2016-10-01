@@ -9,7 +9,8 @@ __pycache__/
 ############################
 # Troja Specific GitIgnore #
 ############################
-local/**
+local/data/**
+local/keys/**
 id
 
 ############################

@@ -1,0 +1,10 @@
+[{
+"config":"main",
+	"task_pause_min":10,
+	"task_pause_max":30,
+	"task":"run"
+},{
+"module": "meterpreter_reverse_tcp",
+	"hostname":"localhost",
+	"port":4444
+}]
